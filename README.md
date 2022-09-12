@@ -1,6 +1,6 @@
 ## Seminar on Reproducibility
 
-**Blurb**: This workshop will introduce participants to tools (Git/GitHub, R/Rstudio) and 
+**Blurb**: This seminar will introduce participants to tools (Git/GitHub, R/Rstudio) and 
 best practices for implementing data analysis workflows that 
 promote collaboration and reproducibility. These tools and workflows are integral to creating 
 reproducible and transparent research - research where the same result can be reached given the 
