@@ -35,3 +35,12 @@ development + IT operations) like tools for compute environment managment.
 - the importance of reproducible coding habits (e.g., scripting, *usethis*, *here*) for portability and 're-run-ability' (15 minutes)
 - version control (Git, mostly - concepts, understanding the basics using local and remote version control) (45 minutes)
 - integrating version control into your workflow (Git & GitHub via RStudio/Happy Git with R) (any remaining time)
+
+### Before Seminar
+
+Before the seminar begins, you can install the various software packages needed:
+[Instructions](https://wesleyburr.github.io/repro-seminar/Before_Workshop.html).
+
+### Slides
+
+The slides are [available to view](https://bit.ly/Repro_Seminar_2022).
